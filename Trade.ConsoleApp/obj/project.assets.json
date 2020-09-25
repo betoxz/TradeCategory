@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.ConsoleApp\\Trade.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.ConsoleApp\\Trade.ConsoleApp.csproj",
       "projectName": "Trade.ConsoleApp",
-      "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.ConsoleApp\\Trade.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.ConsoleApp\\Trade.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\betov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\betov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\Trade.Domain.csproj": {
-              "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\Trade.Domain.csproj"
+            "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\Trade.Domain.csproj": {
+              "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\Trade.Domain.csproj"
             }
           }
         }

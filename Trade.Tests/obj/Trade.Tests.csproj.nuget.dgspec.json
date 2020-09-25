@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Tests\\Trade.Tests.csproj": {}
+    "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Tests\\Trade.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\Trade.Domain.csproj": {
+    "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\Trade.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\Trade.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\Trade.Domain.csproj",
         "projectName": "Trade.Domain",
-        "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\Trade.Domain.csproj",
+        "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\Trade.Domain.csproj",
         "packagesPath": "C:\\Users\\betov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\obj\\",
+        "outputPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\betov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Tests\\Trade.Tests.csproj": {
+    "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Tests\\Trade.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Tests\\Trade.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Tests\\Trade.Tests.csproj",
         "projectName": "Trade.Tests",
-        "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Tests\\Trade.Tests.csproj",
+        "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Tests\\Trade.Tests.csproj",
         "packagesPath": "C:\\Users\\betov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Tests\\obj\\",
+        "outputPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\betov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\Trade.Domain.csproj": {
-                "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\slTrade\\Trade.Domain\\Trade.Domain.csproj"
+              "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\Trade.Domain.csproj": {
+                "projectPath": "C:\\Users\\betov\\Desktop\\TesteCredit\\TradeCategory\\Trade.Domain\\Trade.Domain.csproj"
               }
             }
           }
